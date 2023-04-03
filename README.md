@@ -1,6 +1,6 @@
 # GIF Panelizer 🎞️
 
-Welcome to the fun and exciting world of GIF Panelizer! This Python script takes in PNG images, divides them into quadrants, and then turns them into super cool 4-frame GIFs. It's like magic, but with code! ✨
+This Python script takes in PNG images, divides them into quadrants, and then turns them into super cool 4-frame GIFs. It's like magic, but with code! ✨
 
 ## How It Works 🛠️
 

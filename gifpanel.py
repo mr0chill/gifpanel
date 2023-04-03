@@ -56,6 +56,7 @@ def process_image():
         upscale_factor = int(upscale_arg.group(1))
 
     image_url = re.sub(r"\s*--q:\d+|--d:\d+|--u:\d+", "", input_text)
+    image_url = image_url.split('?')[0]  # Remove query parameters
 
     response = requests.get(image_url)
     image = Image.open(BytesIO(response.content))
@@ -69,7 +70,6 @@ def process_image():
     create_gif_from_quadrants(image, gif_output_path, quality, duration, upscale_factor)
 
     print("Processing complete.")
-
 
 def main():
     while True:

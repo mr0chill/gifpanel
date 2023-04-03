@@ -24,7 +24,7 @@ Here are some examples to show you the magic in action!
 
 **Output GIF:**
 
-![Output GIF 1](example1_output.gif)
+![Imgur](https://imgur.com/NndFraD)
 
 ### Example 2
 

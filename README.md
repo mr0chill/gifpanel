@@ -20,7 +20,7 @@ Here are some examples to show you the magic in action!
 
 **Input Image:**
 
-![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.png)
+![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.png?a)
 
 **Output GIF:**
 

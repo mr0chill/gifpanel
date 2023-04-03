@@ -12,6 +12,21 @@ Here's a quick overview of the folder structure:
 - `PROCESSED`: The script moves processed PNG files to this folder.
 - `GIFS`: The script saves the generated GIFs in this folder.
 
+## GIF Parameters 🎛️
+
+The GIF is created using the following parameters:
+
+- `format="GIF"`: Specifies the output format as a GIF.
+- `save_all=True`: Saves all the frames in the sequence as a single file.
+- `append_images=frames[1:]`: Appends the remaining frames to the first frame.
+- `optimize=True`: Optimizes the GIF for a smaller file size.
+- `quality=95`: Sets the quality of the GIF (larger values result in better quality but larger file sizes).
+- `duration=100`: Sets the duration between frames in milliseconds (in this case, 100 ms or 10 fps).
+- `loop=0`: Sets the number of times the GIF loops (0 means it will loop indefinitely).
+
+These parameters can be adjusted to change the output GIF's appearance and behavior.
+
+
 ## Examples 🖼️
 
 Here are some examples to show you the magic in action!
@@ -20,7 +35,7 @@ Here are some examples to show you the magic in action!
 
 **Input Image:**
 
-![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.png?a)
+![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.1.png)
 
 **Output GIF:**
 

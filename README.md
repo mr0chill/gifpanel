@@ -60,6 +60,8 @@ You can provide optional arguments to adjust the quality and duration of the gen
 
 --d:## - Sets the duration between frames in milliseconds (shorter durations result in faster animations). Acceptable range: any positive integer value. Default value: 100.
 
+--q:## - Upscales the image quadrants prior to gif creation. This will increase the resolution of the final gif by a factor of the number entered. ex. 2 will double the size of the image.
+
 For example, if you want to create a GIF with a quality of 80 and a duration of 200 milliseconds between frames, you can enter the following:
 
 ```

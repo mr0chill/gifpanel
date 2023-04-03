@@ -63,7 +63,7 @@ You can provide optional arguments to adjust the quality and duration of the gen
 For example, if you want to create a GIF with a quality of 80 and a duration of 200 milliseconds between frames, you can enter the following:
 
 ```
-Enter the image URL and optional arguments (--q:QUALITY --d:DURATION): https://imageurl.com/image.png --q:80 --d:200
+Enter the image URL and optional arguments: https://imageurl.com/image.png --q:80 --d:200
 ```
 
 Voilà! 🎉 The script processes the image, saves it to the PROCESSED folder, and creates a GIF in the GIFS folder with the specified quality and duration.

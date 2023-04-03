@@ -24,7 +24,7 @@ Here are some examples to show you the magic in action!
 
 **Output GIF:**
 
-![Output GIF 2](https://awardable.s3.amazonaws.com/assets/1.gif)
+![Output GIF 1](https://awardable.s3.amazonaws.com/assets/1.gif)
 
 ### Example 2
 

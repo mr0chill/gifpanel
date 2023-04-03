@@ -56,9 +56,9 @@ Enter the image URL and optional arguments: https://imageurl.com/image.png --q:9
 ### Optional Arguments
 You can provide optional arguments to adjust the quality and duration of the generated GIF:
 
---q:QUALITY: Sets the quality of the GIF (larger values result in better quality but larger file sizes). Acceptable range: 1 to 100. Default value: 95.
+--q:## - Sets the quality of the GIF (larger values result in better quality but larger file sizes). Acceptable range: 1 to 100. Default value: 95.
 
---d:DURATION: Sets the duration between frames in milliseconds (shorter durations result in faster animations). Acceptable range: any positive integer value. Default value: 100.
+--d:## - Sets the duration between frames in milliseconds (shorter durations result in faster animations). Acceptable range: any positive integer value. Default value: 100.
 
 For example, if you want to create a GIF with a quality of 80 and a duration of 200 milliseconds between frames, you can enter the following:
 

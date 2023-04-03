@@ -27,21 +27,9 @@ The GIF is created using the following parameters:
 These parameters can be adjusted to change the output GIF's appearance and behavior.
 
 
-## Examples 🖼️
+## Example 🖼️
 
-Here are some examples to show you the magic in action!
-
-### Example 1
-
-**Input Image:**
-
-![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.1.png)
-
-**Output GIF:**
-
-![Output GIF 1](https://awardable.s3.amazonaws.com/assets/1.gif)
-
-### Example 2
+Here's an example to show you the magic in action!
 
 **Input Image:**
 

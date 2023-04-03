@@ -42,6 +42,7 @@ To run the script, simply put your PNG images in the `IMAGES` folder and then ex
 
 ```bash
 python gif_panelizer.py
+```
 
 Voilà! 🎉 The script processes the images, moves them to the PROCESSED folder, and creates GIFs in the GIFS folder.
 

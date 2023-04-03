@@ -20,21 +20,21 @@ Here are some examples to show you the magic in action!
 
 **Input Image:**
 
-![Input Image 1](https://cdn.discordapp.com/attachments/1011020944606756874/1092469140050165851/Mr.__the_most_American_picture_ever_d35fd04e-6ad9-4f2d-90ec-9ccf8103da77.png)
+![Input Image 1](https://awardable.s3.amazonaws.com/assets/1.png)
 
 **Output GIF:**
 
-![Imgur](https://imgur.com/NndFraD)
+![Output GIF 2](https://awardable.s3.amazonaws.com/assets/1.gif)
 
 ### Example 2
 
 **Input Image:**
 
-![Input Image 2](example2_input.png)
+![Input Image 2](https://awardable.s3.amazonaws.com/assets/2.png)
 
 **Output GIF:**
 
-![Output GIF 2](example2_output.gif)
+![Output GIF 2](https://awardable.s3.amazonaws.com/assets/2.gif)
 
 ## Running the Script 🏃
 

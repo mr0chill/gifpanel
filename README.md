@@ -20,7 +20,7 @@ Here are some examples to show you the magic in action!
 
 **Input Image:**
 
-![Input Image 1](example1_input.png)
+![Input Image 1](https://cdn.discordapp.com/attachments/1011020944606756874/1092469140050165851/Mr.__the_most_American_picture_ever_d35fd04e-6ad9-4f2d-90ec-9ccf8103da77.png)
 
 **Output GIF:**
 

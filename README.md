@@ -60,6 +60,7 @@ You can provide optional arguments to adjust the quality and duration of the gen
 --d:DURATION: Sets the duration between frames in milliseconds (shorter durations result in faster animations). Acceptable range: any positive integer value. Default value: 100.
 
 For example, if you want to create a GIF with a quality of 80 and a duration of 200 milliseconds between frames, you can enter the following:
+
 ```Enter the image URL and optional arguments (--q:QUALITY --d:DURATION): https://imageurl.com/image.png --q:80 --d:200
 ```
 
